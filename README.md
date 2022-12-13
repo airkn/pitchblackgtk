@@ -19,7 +19,7 @@ for local user folder:
 mv pitchblackgtk ~/.themes
 ```
 
-global folder:
+or to your global folder:
 ```
 mv pitchblackgtk /usr/share/themes
 ```
