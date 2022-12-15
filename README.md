@@ -14,6 +14,7 @@ i can't think of a better alternative after trying so many of the icons out ther
 git clone https://github.com/airkn/pitchblackgtk
 ```
 move it to the your themes folder
+
 for local user folder:
 ```
 mv pitchblackgtk ~/.themes
